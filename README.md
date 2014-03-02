@@ -1,4 +1,3 @@
-php-fotd
-========
+# PHP Function of the Day
 
-Learn a new PHP function every day
+Learn a new PHP function every day.

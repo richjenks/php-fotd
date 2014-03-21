@@ -98,6 +98,7 @@ if (!$already_chosen) {
 			background: #C6C6E2;
 			margin: 0;
 			padding: 1.6em;
+			word-wrap: break-word;
 		}
 		.wrapper {
 			max-width: 40em;

@@ -4,7 +4,7 @@
 $base = 'http://php.net/manual/en/';
 
 // Canonical URL for app
-$canonical = 'http://richjenks.com/dev/apps/php-fotd/';
+$canonical = 'https://richjenks.com/dev/php-fotd/';
 
 // Numeric date
 $today = date('Ymd');
